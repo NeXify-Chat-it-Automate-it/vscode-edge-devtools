@@ -676,7 +676,7 @@
         "test": "npm run lint && jest --config package.json --runInBand --env=jsdom"
     },
     "dependencies": {
-        "@vscode/codicons": "0.0.40",
+        "@vscode/codicons": "0.0.44",
         "@vscode/extension-telemetry": "0.9.4",
         "bufferutil": "4.0.9",
         "lit-html": "^3.3.1",
