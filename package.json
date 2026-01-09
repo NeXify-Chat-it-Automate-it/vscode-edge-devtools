@@ -678,7 +678,7 @@
     "dependencies": {
         "@vscode/codicons": "0.0.40",
         "@vscode/extension-telemetry": "0.9.4",
-        "bufferutil": "4.0.9",
+        "bufferutil": "4.1.0",
         "lit-html": "^3.3.1",
         "puppeteer-core": "24.23.0",
         "utf-8-validate": "6.0.5",
